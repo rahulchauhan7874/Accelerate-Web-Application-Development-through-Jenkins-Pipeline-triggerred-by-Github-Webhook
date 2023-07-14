@@ -62,3 +62,11 @@ sudo apt-get install jenkins -y
 ```
 
 ![image](https://github.com/rahulchauhan7874/Accelerate-Web-Application-Development-through-Jenkins-Pipeline-triggerred-by-Github-Webhook/assets/108551570/b9e62319-17b7-49b1-ae77-ee0205b68046)
+
+- Check Jenkins has been installed and running on your instance..
+
+```bash
+sudo systemctl status jenkins
+```
+
+![image](https://github.com/rahulchauhan7874/Accelerate-Web-Application-Development-through-Jenkins-Pipeline-triggerred-by-Github-Webhook/assets/108551570/544a41d5-ab97-463d-b8f0-bdbf6a940955)
